@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm ComasSky !
 
-### 🌐 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography Buff | 🌐 Blockchain & BTC Aficionado
+### 🌐 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography Buff | 🌐 Blockchain & BTC Aficionado | ⌚ Watch Lover
 
 ---
 
