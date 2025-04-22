@@ -1,11 +1,32 @@
-- 👋 Hi, I’m @comassky
+---
 
-If you want to support my work, pay me a coffee  :) 
+# 👋 Hi, I'm ComasSky !
 
-BTC : bc1q9czwkgp4q8hzq2cjnhsn82x2ae5vw2fenugy2ktv78yegrvvzlhqwcj83v
+### 🌐 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography Buff | 🌐 Blockchain & BTC Aficionado
 
-ETH / BSC : 0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaa
-<!---
-comassky/comassky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## About Me
+
+Hello! I'm a fullstack developer passionate about creating innovative and efficient solutions. When I'm not coding, you can find me:
+
+- 🎧 Listening to or playing music
+- 🏃 Staying active with sports
+- 🔍 Exploring the mysteries of cryptography
+- 💡 Diving into the fascinating world of blockchain and the Bitcoin ecosystem
+
+## Technical Skills
+
+- **Programming Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Spring Boot
+- **Tools & Platforms:** Docker, Kubernetes, AWS, Git
+
+
+## Buy Me a Coffee
+
+If you enjoy my work and would like to support me, you can buy me a coffee using the following crypto addresses:
+
+- **BTC:** bc1pvd66jnspktvw34ujq54z7j7h6ked2y44qjfrwta5qr0exk4n54dqmga0yl
+- **ETH/BSC:** 0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaaet
+
+---
