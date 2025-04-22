@@ -26,7 +26,8 @@ Hello! I'm a fullstack developer passionate about creating innovative and effici
 
 If you enjoy my work and would like to support me, you can buy me a coffee using the following crypto addresses:
 
-- **BTC:** bc1pvd66jnspktvw34ujq54z7j7h6ked2y44qjfrwta5qr0exk4n54dqmga0yl
-- **ETH/BSC:** 0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaaet
+- **BTC:**     bc1pvd66jnspktvw34ujq54z7j7h6ked2y44qjfrwta5qr0exk4n54dqmga0yl
+  
+- **ETH/BSC:**    0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaaet
 
 ---
