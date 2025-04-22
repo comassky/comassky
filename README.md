@@ -30,4 +30,6 @@ If you enjoy my work and would like to support me, you can buy me a coffee using
   
 - **ETH/BSC:**    0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaaet
 
+- **SOL:**    HLjiPsjPHHXkQNREDnrs64faLQLanJLG9pNNz3D61f6n
+
 ---
