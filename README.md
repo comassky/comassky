@@ -28,7 +28,7 @@ If you enjoy my work and would like to support me, you can buy me a coffee using
 
 - **BTC:**     bc1pvd66jnspktvw34ujq54z7j7h6ked2y44qjfrwta5qr0exk4n54dqmga0yl
   
-- **ETH/BSC:**    0x0f26b8bdc028f6bd0f79ff4959306065c36d5eaaet
+- **ETH/BSC:**    0x0f26B8Bdc028F6bd0F79FF4959306065C36d5EAa
 
 - **SOL:**    HLjiPsjPHHXkQNREDnrs64faLQLanJLG9pNNz3D61f6n
 
