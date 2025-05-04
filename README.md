@@ -32,5 +32,7 @@ If you enjoy my work and would like to support me, you can buy me a coffee using
 
 - **SOL:**    HLjiPsjPHHXkQNREDnrs64faLQLanJLG9pNNz3D61f6n
 
-- **Lightning:** ![screenshot](lightning.jpg)
+- **Lightning:** <br/><br/> <p align="center">
+![screenshot](lightning.jpg)
+</p>
 ---
