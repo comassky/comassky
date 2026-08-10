@@ -56,7 +56,7 @@ I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (offici
 
 `udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001`
 
-### Support My Work
+###€ Support My Work
 
 If you appreciate my contributions, I accept crypto donations:
 
