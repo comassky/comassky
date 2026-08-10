@@ -1,6 +1,6 @@
 # 👋 Hi, I'm ComasSky
 
-**🚀 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
+**🚀 Fullstack Developer | �� Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
 
 <div align="center">
 
@@ -29,18 +29,18 @@ When I'm not coding:
 <tr>
 <td valign="top" width="50%">
 
-### 🗣️ Languages
+**🗣️ Languages**<br/>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### �� Frontend
+**🎨 Frontend**<br/>
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+**⚙️ Backend & Frameworks**<br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
@@ -48,10 +48,10 @@ When I'm not coding:
 </td>
 <td valign="top" width="50%">
 
-### 📨 Messaging & Streaming
+**📨 Messaging & Streaming**<br/>
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-### ☁️ DevOps & Cloud
+**☁️ DevOps & Cloud**<br/>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
