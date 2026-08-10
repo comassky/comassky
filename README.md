@@ -4,11 +4,23 @@ layout: default
 
 # 👋 Hi, I'm ComasSky
 
-**Fullstack Developer | Music Enthusiast | Sports Lover | Cryptography & Blockchain Aficionado**
+**🚀 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=comassky)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true)](https://github.com/comassky)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true)](https://github.com/comassky)
 
 </div>
 
