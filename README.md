@@ -81,9 +81,11 @@ If you appreciate my contributions and would like to support me, I accept crypto
 | Crypto | Address |
 |--------|---------|
 | **Bitcoin** | `bc1qa7kcf6r9xemdmcs7wufufztfcl7rzravx9naz3` |
-| **Bitcoin (Electrum on Tor)** | `udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001` |
+| **Bitcoin (Electrs on Tor)** | `udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001` |
 | **Ethereum/BSC** | `0x0f26B8Bdc028F6bd0F79FF4959306065C36d5EAa` |
 | **Solana** | `64NUvVYMwwnchsTYwbWboGfyez4j7dGsJnB1eiWZhbkm` |
+
+> Bitcoin Electrs endpoint running on Tor with official [romanz/electrs](https://github.com/romanz/electrs) Docker image — no IP logging, privacy-first.
 
 ---
 
