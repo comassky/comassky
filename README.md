@@ -1,11 +1,8 @@
 <div align="center">
-
 # 👋 Hi, I'm ComasSky
-
 </div>
 
 **🚀 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
-
 
 ## 🎯 About Me
 
@@ -51,9 +48,13 @@ When I'm not coding:
 Open to discussing:
 - 🚀 Innovative tech projects
 - 🤝 Open-source collaborations
-- 💼 Freelance opportunities
 - 🔍 Web3 & blockchain ventures
 
+### Electrum server
+
+I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (official Docker image) — no IP logging, privacy-first:
+
+`udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001`
 
 ### Support My Work
 
@@ -65,14 +66,4 @@ If you appreciate my contributions, I accept crypto donations:
 | **Ethereum/BSC** | `0x0f26B8Bdc028F6bd0F79FF4959306065C36d5EAa` |
 | **Solana** | `64NUvVYMwwnchsTYwbWboGfyez4j7dGsJnB1eiWZhbkm` |
 
-#### Bitcoin on Tor
 
-I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (official Docker image) — no IP logging, privacy-first:
-
-`udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001`
-
----
-
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=comassky)
-</div>
