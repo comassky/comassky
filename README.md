@@ -6,7 +6,6 @@
 
 **🚀 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
 
----
 
 ## 🎯 About Me
 
@@ -19,7 +18,6 @@ When I'm not coding:
 - ₿ Diving into blockchain and Bitcoin
 - ⌚ Appreciating fine watchmaking
 
----
 
 ## 💻 Technical Stack
 
@@ -38,7 +36,6 @@ When I'm not coding:
 **☁️ DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&l[...]
 
----
 
 ## 🚀 My Focus
 
@@ -48,7 +45,6 @@ When I'm not coding:
 - 📨 **Event-Driven Architecture** - Stream processing and real-time data pipelines
 - 🎨 **Open Source** - Contributing to community projects
 
----
 
 ## 💡 Let's Connect
 
@@ -65,7 +61,7 @@ Open to discussing:
 
 </div>
 
----
+
 
 ### Support My Work
 
