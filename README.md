@@ -52,13 +52,6 @@ Open to discussing:
 - 🤝 Open-source collaborations
 - 🔍 Web3 & blockchain ventures
 
+---
 
-## ☕ Buy me a coffee
-
-If you appreciate my contributions, I accept crypto donations:
-
-| Crypto | Address |
-|--------|---------|
-| **Bitcoin** | `bc1qa7kcf6r9xemdmcs7wufufztfcl7rzravx9naz3` |
-| **Ethereum/BSC** | `0x0f26B8Bdc028F6bd0F79FF4959306065C36d5EAa` |
-| **Solana** | `64NUvVYMwwnchsTYwbWboGfyez4j7dGsJnB1eiWZhbkm` |
+*Note: While I don't personally hold Bitcoin, I'm genuinely fascinated by its decentralized architecture and the rigorous scientific principles behind its design. The innovation in consensus mechanisms and cryptographic security is truly remarkable.*
