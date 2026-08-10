@@ -54,9 +54,6 @@ Open to discussing:
 - 💼 Freelance opportunities
 - 🔍 Web3 & blockchain ventures
 
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
@@ -85,9 +82,5 @@ I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (offici
 ---
 
 <div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=comassky)
-
-**Made with ❤️ by ComasSky**
-
 </div>
