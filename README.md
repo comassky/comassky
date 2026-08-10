@@ -8,19 +8,7 @@
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![ComasSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e)
-
-</div>
-
----
 
 ## 🎯 About Me
 
@@ -81,6 +69,20 @@ Open to discussing:
 - 🤝 Open-source collaborations
 - 💼 Freelance opportunities
 - 🔍 Web3 & blockchain ventures
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![ComasSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e)
+
+</div>
+
+---
 
 ### Support My Work
 
