@@ -1,6 +1,6 @@
 ---
 
-# 👋 Hi, I'm ComasSky!
+# 👋 Hi, I'm ComasSky
 
 **Fullstack Developer | Music Enthusiast | Sports Lover | Cryptography & Blockchain Aficionado**
 
@@ -29,13 +29,22 @@ When I'm not coding, you'll find me:
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Frontend & Backend
+### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+
+### Messaging & Streaming
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -47,22 +56,12 @@ When I'm not coding, you'll find me:
 
 ## 🚀 Notable Interests
 
+- 🏗️ **Microservices Architecture** - Designing distributed, scalable, and resilient systems
 - 🔗 **Blockchain Development** - Smart contracts, DeFi protocols, and consensus mechanisms
 - 🛡️ **Cryptography** - Zero-knowledge proofs, elliptic curves, and secure communications
 - 📊 **Full-Stack Architecture** - Building scalable systems from database to frontend
 - 🎨 **Open Source** - Contributing to and maintaining community projects
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+- 📨 **Event-Driven Systems** - Stream processing and real-time data pipelines with Kafka
 
 ---
 
@@ -73,6 +72,7 @@ I'm always open to discussing:
 - 🤝 Open-source collaborations
 - 💼 Freelance opportunities
 - 🔍 Web3 & blockchain ventures
+- 🏗️ Microservices and distributed systems
 
 ### Support My Work
 
@@ -81,6 +81,7 @@ If you appreciate my contributions and would like to support me, I accept crypto
 | Crypto | Address |
 |--------|---------|
 | **Bitcoin** | `bc1qa7kcf6r9xemdmcs7wufufztfcl7rzravx9naz3` |
+| **Bitcoin (Electrum on Tor)** | `udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001` |
 | **Ethereum/BSC** | `0x0f26B8Bdc028F6bd0F79FF4959306065C36d5EAa` |
 | **Solana** | `64NUvVYMwwnchsTYwbWboGfyez4j7dGsJnB1eiWZhbkm` |
 
