@@ -52,9 +52,6 @@ Open to discussing:
 - 🤝 Open-source collaborations
 - 🔍 Web3 & blockchain ventures
 
-I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (official Docker image) — no IP logging, privacy-first:
-
-`udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001`
 
 ## ☕ Buy me a coffee
 
