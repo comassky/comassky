@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # 👋 Hi, I'm ComasSky
 
 **🚀 Fullstack Developer | 🎵 Music Enthusiast | 🏃 Sports Lover | 🔐 Cryptography & Blockchain Aficionado**
@@ -18,9 +14,9 @@ layout: default
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true)](https://github.com/comassky)
+![ComasSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true)](https://github.com/comassky)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e)
 
 </div>
 
@@ -28,14 +24,14 @@ layout: default
 
 ## 🎯 About Me
 
-I'm a passionate **fullstack developer** dedicated to building innovative, scalable, and efficient solutions. I love the intersection of technology, finance, and security.
+I'm a passionate **fullstack developer** building innovative, scalable solutions at the intersection of technology, finance, and security. 
 
-When I'm not coding, you'll find me:
-- 🎧 Creating, producing, or enjoying music
-- 🏃 Training and staying active with various sports
-- 🔐 Studying cryptography and security protocols
-- ₿ Exploring blockchain technology and the Bitcoin ecosystem
-- ⌚ Appreciating fine watchmaking and horology
+When I'm not coding:
+- 🎧 Creating or enjoying music
+- 🏃 Staying active with sports
+- 🔐 Exploring cryptography and security protocols
+- ₿ Diving into blockchain and Bitcoin
+- ⌚ Appreciating fine watchmaking
 
 ---
 
@@ -68,29 +64,27 @@ When I'm not coding, you'll find me:
 
 ---
 
-## 🚀 Notable Interests
+## 🚀 My Focus
 
-- 🏗️ **Microservices Architecture** - Designing distributed, scalable, and resilient systems
-- 🔗 **Blockchain Development** - Smart contracts, DeFi protocols, and consensus mechanisms
-- 🛡️ **Cryptography** - Zero-knowledge proofs, elliptic curves, and secure communications
-- 📊 **Full-Stack Architecture** - Building scalable systems from database to frontend
-- 🎨 **Open Source** - Contributing to and maintaining community projects
-- 📨 **Event-Driven Systems** - Stream processing and real-time data pipelines with Kafka
+- 🏗️ **Microservices & Distributed Systems** - Building scalable, resilient architectures
+- 🔗 **Blockchain & Web3** - Smart contracts, DeFi, and crypto protocols
+- 🛡️ **Security & Cryptography** - Zero-knowledge proofs, encryption, secure communications
+- 📨 **Event-Driven Architecture** - Stream processing and real-time data pipelines
+- 🎨 **Open Source** - Contributing to community projects
 
 ---
 
-## 💡 Let's Connect & Collaborate
+## 💡 Let's Connect
 
-I'm always open to discussing:
+Open to discussing:
 - 🚀 Innovative tech projects
 - 🤝 Open-source collaborations
 - 💼 Freelance opportunities
 - 🔍 Web3 & blockchain ventures
-- 🏗️ Microservices and distributed systems
 
 ### Support My Work
 
-If you appreciate my contributions and would like to support me, I accept crypto donations:
+If you appreciate my contributions, I accept crypto donations:
 
 | Crypto | Address |
 |--------|---------|
@@ -100,7 +94,7 @@ If you appreciate my contributions and would like to support me, I accept crypto
 
 #### Bitcoin on Tor
 
-I also run a private [Electrs](https://github.com/romanz/electrs) node on Tor with the official Docker image — no IP logging, privacy-first:
+I run a private [Electrs](https://github.com/romanz/electrs) node on Tor (official Docker image) — no IP logging, privacy-first:
 
 `udpokumg2ayliifhed6blo7gax5zz7ursvp4t72kvwp4cgdttg2tlsid.onion:50001`
 
