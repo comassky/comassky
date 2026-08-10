@@ -25,30 +25,41 @@ When I'm not coding:
 
 ## 💻 Technical Stack
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 🗣️ Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-### Frontend
+### �� Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 
-### Backend & Frameworks
+### ⚙️ Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
 
-### Messaging & Streaming
+</td>
+<td valign="top" width="50%">
+
+### 📨 Messaging & Streaming
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
 
-### DevOps & Cloud
+### ☁️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -76,9 +87,7 @@ Open to discussing:
 
 <div align="center">
 
-![ComasSky's GitHub stats](https://github-readme-stats.vercel.app/api?username=comassky&show_icons=true&theme=dark&hide_border=true&bg_color=1e1e1e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=comassky&layout=compact&theme=dark&hide_border=true&bg_color=1e1e1e)
+<img src="https://ghstats.dev/api/card?username=comassky" alt="GitHub Stats Card" />
 
 </div>
 
