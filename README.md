@@ -60,7 +60,7 @@ Open to discussing:
 
 <div align="center">
 
-<img src="https://ghstats.dev/api/card?username=comassky" alt="GitHub Stats Card" />
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=comassky&theme=dark)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
