@@ -16,10 +16,8 @@ When I'm not coding:
 - 🔐 Exploring cryptography and security protocols
 - ₿ Diving into blockchain and Bitcoin
 - ⌚ Appreciating fine watchmaking
-
-*Although I do not personally hold Bitcoin or other cryptocurrencies, I am genuinely fascinated by its decentralized architecture and the rigorous scientific principles underpinning its design. The innovations in consensus mechanisms and cryptographic security are truly remarkable.
-
-It combines my passions for decentralization and cryptography.*
+  
+_Although I do not personally hold Bitcoin or other cryptocurrencies, I am genuinely fascinated by its decentralized architecture and the rigorous scientific principles underpinning its design. The innovations in consensus mechanisms and cryptographic security are truly remarkable. It combines my passions for decentralization and cryptography._
 
 ## 💻 Technical Stack
 
